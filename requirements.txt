@@ -1,0 +1,10 @@
+pymongo
+motor
+pandas
+openpyxl
+requests
+bs4
+pillow
+xhtml2pdf
+python-dotenv
+streamlit
